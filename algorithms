@@ -1,0 +1,24 @@
+#algorithm for adding two numbers
+start
+scan the values of A and B
+sum the values
+print the sum
+end
+
+#algo for area of circle
+Start
+scan the value of r
+value of pi = 3.14
+calculate area of circle pi*r*r
+print the area of circle
+end
+
+#algo for sum of even numbers
+start
+scan the value of n
+sum=0
+while i<n
+if i%2==0
+sum=sum+i
+print sum of even numbers
+end
